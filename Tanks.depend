@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1647733902 source:/Users/yanis/Documents/C++/Tanks/ExoticTanks.cpp
+	"ExoticTanks.h"
+
+1647733901 /Users/yanis/Documents/C++/Tanks/ExoticTanks.h
+
+1647790668 source:/Users/yanis/Documents/C++/Tanks/KnownTanks.cpp
+	"KnownTanks.h"
+	<iostream>
+	<cmath>
+
+1647790629 /Users/yanis/Documents/C++/Tanks/KnownTanks.h
+
